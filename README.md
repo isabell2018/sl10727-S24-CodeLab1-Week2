@@ -1,5 +1,4 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# 2D Fire Game
 
-DO NOT LEAVE IT LIKE THIS!!!
-
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+Use WASD to control the player; get points from fire and avoid poison gas. Several Levels
+Bug: The replay game button does not work.
